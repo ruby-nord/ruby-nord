@@ -1,6 +1,6 @@
 # Ruby Nord
 
-http://www.meetup.com/rubynord/
+http://ruby-nord.org/
 
 ## License
 
