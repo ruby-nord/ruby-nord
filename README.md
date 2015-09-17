@@ -4,4 +4,5 @@ http://ruby-nord.org/
 
 ## License
 
-All documents are released under the Creative Commons Attribution-ShareAlike License.
+All documents (except fonts) are released under the Creative Commons Attribution-ShareAlike License.
+Fonts are released under SIL Open Font License.
